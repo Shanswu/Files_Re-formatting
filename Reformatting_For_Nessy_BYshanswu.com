@@ -5,6 +5,7 @@
 # The files with the *.peaks in the format of Sparky system should be stored in the working directory as the input files;
 # The output files will be named in the pattern as Nessy_ + original filename. For instance, the file named "Bruker_1_CPMG.peaks" will 
 # lead to the file named "Nessy_Bruker_1_CPMG.peaks"
+# The scripts work in Bourne Shell
 # shanswu20160331######
 
 
