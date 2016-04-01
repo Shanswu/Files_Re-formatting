@@ -2,7 +2,7 @@
 
 
 # This script is used to convert Sparky formatted peaklists into the peak lists that are identifiable by NESSY CPMG fitting software;
-# The files with the *.peaks in the format of Sparky should be stored in the working directory as the input files;
+# The files with the *.peaks in the format of Sparky system should be stored in the working directory as the input files;
 # The output files will be named in the pattern as Nessy_ + original filename. For instance, the file named "Bruker_1_CPMG.peaks" will 
 # lead to the file named "Nessy_Bruker_1_CPMG.peaks"
 # shanswu20160331######
